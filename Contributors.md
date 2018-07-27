@@ -4769,6 +4769,7 @@
 - [Davie Truong](https://github.com/davie890)
 - [Sagar Jani](https://github.com/alwaysreadytolearn)
 - [Nikita Tonkoshur](https://github.com/bloodwithmilk25)
+- LordOfTheKumquats
 - Hammerhead
 - Joshua Riley
 - [Zhenyu Yang](https://github.com/shrimpie)
